@@ -1,1 +1,1 @@
-# Hello
+# KaggleのSpaceshipTitanicに取り組む際に利用しました。
